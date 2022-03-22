@@ -1,2 +1,4 @@
-*.out
-*.hex
+/FitnessTracker/FitnessTracker.cache/
+/FitnessTracker/FitnessTracker.hw/
+/FitnessTracker/FitnessTracker.ip_user_files/
+/FitnessTracker/FitnessTracker.sim/
